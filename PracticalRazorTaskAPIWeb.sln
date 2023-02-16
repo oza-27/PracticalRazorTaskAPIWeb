@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticalRazorTaskAPI", "PracticalRazorTaskAPI\PracticalRazorTaskAPI.csproj", "{AE1FE1E3-8A6F-4829-9E18-C2034D98B763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE1FE1E3-8A6F-4829-9E18-C2034D98B763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1FE1E3-8A6F-4829-9E18-C2034D98B763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1FE1E3-8A6F-4829-9E18-C2034D98B763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1FE1E3-8A6F-4829-9E18-C2034D98B763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB098680-8EAC-4779-A83A-1366149FD54A}
+	EndGlobalSection
+EndGlobal
